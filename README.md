@@ -1,0 +1,4 @@
+# Python-Projects-for-Data-Analysis
+In this repository, I have added all my Python projects for data analysis. Through these projects I intend to showcase my knowledge about various libraries used for EDA and the importance of EDA.
+My first project is Demand and Supply Analysis. The demand for a product or service is the quantity of that product or service the customers are willing to purchase at any given price during a particular period. And the supply for a product or service is the quantity the producers are willing to provide in the market at a particular price and a particular period.
+Demand and Supply analysis means analyzing the relationship between the quantity demanded and the quantity supplied. It helps businesses understand the factors influencing consumer demand to maximize profits.
